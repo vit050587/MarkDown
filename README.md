@@ -1,4 +1,4 @@
-![MarkDown](MARKDOWN.jpg)
+![MarkDown](https://github.com/vit050587/MarkDown/blob/master/MARKDOWN.png)
 
 Настоящий документ предназначен для ознакомления пользователя с функциональными возможностями языка разметки Markdown. 
 Markdown – это облегченный язык разметки, который является инструментом преобразования кода в HTML.
